@@ -1,3 +1,3 @@
-#WEBPACK EJERCICIO
+#TODO LIST 
 
-Este es un pequeño ejercicio en webpack para aprender más a fondo su configuración.
+This project was build using JS ES6 and webpack
